@@ -1,5 +1,5 @@
 <img src="antisocial_x_icon_48.png" alt="Alt text" title="Optional title">
-The 🐑**antisocial_x** extension creates a truly neutral browsing experience on X (fka Twitter), 
+The antisocial_x extension creates a truly neutral browsing experience on X (fka Twitter), 
 allowing users to engage with content based solely on its inherent value, without any influence 
 from visible engagement metrics, follower counts, or social proof indicators. 
 
