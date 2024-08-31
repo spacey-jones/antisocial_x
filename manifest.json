@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Antisocial X",
+  "version": "1.0",
+  "description": "Hide follower, like, view, and retweet numbers on X (Twitter) to focus on content merit.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*", "https://x.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon.html",
+      "48": "icon.html",
+      "128": "icon.html"
+    }
+  }
+}
